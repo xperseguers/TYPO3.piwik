@@ -32,21 +32,21 @@ $EM_CONF[$_EXTKEY] = array (
 	'author_company' => 'www.kay-strobach.de',
 	'CGLcompliance' => '',
 	'CGLcompliance_note' => '',
-	'constraints' => 
+	'constraints' =>
 	array (
-		'depends' => 
+		'depends' =>
 		array (
-			'typo3' => '6.2.0-7.6.99',
+			'typo3' => '6.2.0-8.7.99',
 		),
-		'conflicts' => 
+		'conflicts' =>
 		array (
 		),
-		'suggests' => 
+		'suggests' =>
 		array (
 		),
 	),
 	'_md5_values_when_last_written' => 'a:11:{s:21:"ext_conf_template.txt";s:4:"ee4a";s:12:"ext_icon.gif";s:4:"d803";s:17:"ext_localconf.php";s:4:"e709";s:14:"ext_tables.php";s:4:"4523";s:27:"Classes/UserFunc/Footer.php";s:4:"206f";s:38:"Configuration/TypoScript/constants.txt";s:4:"9070";s:34:"Configuration/TypoScript/setup.txt";s:4:"7b0d";s:48:"Resources/Private/Templates/Piwik/notracker.html";s:4:"b38e";s:55:"Resources/Private/Templates/Piwik/notracker_beuser.html";s:4:"3482";s:46:"Resources/Private/Templates/Piwik/tracker.html";s:4:"4932";s:14:"doc/manual.sxw";s:4:"ab5a";}',
-	'suggests' => 
+	'suggests' =>
 	array (
 	),
 );
